@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Troy&#39;s Blog</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Troy&#39;s Blog</description>
+    <title>Posts on Troy&#39;s Blog</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Troy&#39;s Blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 18:50:51 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>https://example.org/posts/welcome/</link>

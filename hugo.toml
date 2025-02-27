@@ -1,5 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Troy's Blog"
 publishDir = 'docs'
 theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = 'My Blog'
